@@ -1,5 +1,5 @@
 # Screen_orientation
-Helper to implements UI Dialogs and Toast on Android.
+Custom screen rotation ads for mobile targets.
 
 # Installation
 
@@ -39,7 +39,7 @@ class Main extends Sprite
 
 ```
 
-### Example Use Extension (Ccustom FlxSubState):
+### Example Use Extension (Custom FlxSubState):
 
 ```haxe
 
