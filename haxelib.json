@@ -1,0 +1,13 @@
+{
+  "name": "screen_orientation",
+  "url": "https://github.com/nicolastuka/ScreenOrientation",
+  "license": "MIT",
+  "tags": [],
+  "description": "Custom screen rotation ads for mobile targets.",
+  "version": "1.0.0",
+  "releasenote": "",
+  "contributors": ["nicolastuka"],
+  "dependencies": {
+
+  }
+}
